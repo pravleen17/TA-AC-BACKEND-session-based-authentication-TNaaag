@@ -17,3 +17,4 @@ writeCode
 ##### Note:-
 
 Use async version of bcrypt method to hash the password
+
